@@ -1,6 +1,6 @@
 immutable_var = 1
 immutable_var2 = ('bobr')
-immutable_var3 = ([1,2,'a','b'])
+immutable_var3 = (1,2,'a','b')
 print(immutable_var)
 print(immutable_var2)
 print(immutable_var3)
